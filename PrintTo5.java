@@ -1,3 +1,5 @@
+/* The programm is incomplete. your code prints 0 only*/
+
 // Prints the numbers 0 to 5.
 // (Same program as shown in lecture 1-1).
 public class PrintTo5 {
